@@ -1,6 +1,7 @@
 {
   "name": "controldoor",
   "version": "1.0.0",
+  "file": "fw.bin",
   "description": "",
   "main": "index.js",
   "scripts": {
